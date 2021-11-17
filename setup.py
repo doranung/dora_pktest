@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 #This call to setup() does all the work
 setup(
     name="dora_pktest",
-    version="0.0.1",
+    version="1.0.0",
     author="doranung",
     author_email="",
     description="Test packages",
